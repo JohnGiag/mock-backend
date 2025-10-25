@@ -1,0 +1,22 @@
+{
+  "name": "json-server-auth",
+  "version": "1.0.0",
+  "description": "Mock JSON server with authentication for mobile app backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "jsonwebtoken": "^9.0.2",
+    "bcrypt": "^5.1.1"
+  },
+  "keywords": [
+    "json-server",
+    "authentication",
+    "mock-api"
+  ],
+  "author": "",
+  "license": "MIT"
+}

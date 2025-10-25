@@ -1,0 +1,276 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "email": "demo@example.com",
+      "password": "$2b$10$7o9/BOTwvi58XfWSG008WeJLO9Aze6GS2pXHco.VyGcRXHdYMdk3m",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 1761379602549,
+      "email": "demo2@example.com",
+      "password": "$2b$10$Xje/665CVSLiAXiVtX028u3e2xHkIMV/.qX2SH504m.GtetE6shRi",
+      "createdAt": "2025-10-25T08:06:42.549Z"
+    }
+  ],
+  "profiles": [
+    {
+      "id": 1,
+      "email": "demo@example.com",
+      "firstName": "Demo",
+      "lastName": "User",
+      "phoneNumber": "+1234567890"
+    },
+    {
+      "id": 1761379602549,
+      "email": "demo2@example.com",
+      "firstName": "demo",
+      "lastName": "user",
+      "phoneNumber": "1234536"
+    }
+  ],
+  "tokens": [
+    {
+      "email": "demo@example.com",
+      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRlbW9AZXhhbXBsZS5jb20iLCJ0eXBlIjoicmVmcmVzaCIsImlhdCI6MTc2MTM3OTQ1NSwiZXhwIjoxNzYxOTg0MjU1fQ.u5wUxPDjRcGWr9q_mQ-cLlyZMh8j9MIvmh_rJQ84qE8"
+    },
+    {
+      "email": "demo2@example.com",
+      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRlbW8yQGV4YW1wbGUuY29tIiwidHlwZSI6InJlZnJlc2giLCJpYXQiOjE3NjEzNzk2NzQsImV4cCI6MTc2MTk4NDQ3NH0.gIyBQtdwlD4mdbnsebxzKi69G_-uhHPU6yXETHMuFBg"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "userId": "demo@example.com",
+      "title": "Mobile App Development",
+      "subtitle": "React Native Project",
+      "description": "Building a cross-platform mobile application using React Native with modern UI components and state management.",
+      "category": "Development",
+      "createdAt": "2024-01-15T10:30:00.000Z",
+      "updatedAt": "2024-01-15T10:30:00.000Z"
+    },
+    {
+      "id": 2,
+      "userId": "demo@example.com",
+      "title": "API Integration",
+      "subtitle": "RESTful Services",
+      "description": "Integrating third-party APIs and building robust backend services for data management and authentication.",
+      "category": "Backend",
+      "createdAt": "2024-01-16T14:20:00.000Z",
+      "updatedAt": "2024-01-16T14:20:00.000Z"
+    },
+    {
+      "id": 3,
+      "userId": "demo@example.com",
+      "title": "UI/UX Design",
+      "subtitle": "User Experience",
+      "description": "Creating intuitive user interfaces and improving user experience through modern design principles.",
+      "category": "Design",
+      "createdAt": "2024-01-17T09:15:00.000Z",
+      "updatedAt": "2024-01-17T09:15:00.000Z"
+    },
+    {
+      "id": 4,
+      "userId": "demo@example.com",
+      "title": "Database Optimization",
+      "subtitle": "Performance Tuning",
+      "description": "Optimizing database queries and improving application performance through efficient data structures.",
+      "category": "Database",
+      "createdAt": "2024-01-18T11:45:00.000Z",
+      "updatedAt": "2024-01-18T11:45:00.000Z"
+    },
+    {
+      "id": 5,
+      "userId": "demo@example.com",
+      "title": "Cloud Deployment",
+      "subtitle": "AWS Services",
+      "description": "Deploying applications to cloud platforms and managing infrastructure using modern DevOps practices.",
+      "category": "DevOps",
+      "createdAt": "2024-01-19T16:30:00.000Z",
+      "updatedAt": "2024-01-19T16:30:00.000Z"
+    },
+    {
+      "id": 6,
+      "userId": "demo@example.com",
+      "title": "Security Implementation",
+      "subtitle": "Authentication & Authorization",
+      "description": "Implementing secure authentication systems and protecting user data with encryption and best practices.",
+      "category": "Security",
+      "createdAt": "2024-01-20T13:10:00.000Z",
+      "updatedAt": "2024-01-20T13:10:00.000Z"
+    },
+    {
+      "id": 7,
+      "userId": "demo@example.com",
+      "title": "Testing Strategy",
+      "subtitle": "Quality Assurance",
+      "description": "Developing comprehensive testing strategies including unit tests, integration tests, and end-to-end testing.",
+      "category": "Testing",
+      "createdAt": "2024-01-21T08:45:00.000Z",
+      "updatedAt": "2024-01-21T08:45:00.000Z"
+    },
+    {
+      "id": 8,
+      "userId": "demo@example.com",
+      "title": "Code Review Process",
+      "subtitle": "Best Practices",
+      "description": "Establishing code review processes and maintaining code quality through peer review and automated checks.",
+      "category": "Development",
+      "createdAt": "2024-01-22T15:20:00.000Z",
+      "updatedAt": "2024-01-22T15:20:00.000Z"
+    },
+    {
+      "id": 9,
+      "userId": "demo@example.com",
+      "title": "Performance Monitoring",
+      "subtitle": "Analytics & Metrics",
+      "description": "Setting up monitoring systems to track application performance and user behavior analytics.",
+      "category": "Monitoring",
+      "createdAt": "2024-01-23T12:00:00.000Z",
+      "updatedAt": "2024-01-23T12:00:00.000Z"
+    },
+    {
+      "id": 10,
+      "userId": "demo@example.com",
+      "title": "Documentation",
+      "subtitle": "Technical Writing",
+      "description": "Creating comprehensive documentation for APIs, user guides, and technical specifications.",
+      "category": "Documentation",
+      "createdAt": "2024-01-24T10:30:00.000Z",
+      "updatedAt": "2024-01-24T10:30:00.000Z"
+    },
+    {
+      "id": 11,
+      "userId": "demo@example.com",
+      "title": "Version Control",
+      "subtitle": "Git Workflow",
+      "description": "Managing code versions and implementing effective branching strategies for team collaboration.",
+      "category": "Development",
+      "createdAt": "2024-01-25T14:15:00.000Z",
+      "updatedAt": "2024-01-25T14:15:00.000Z"
+    },
+    {
+      "id": 12,
+      "userId": "demo@example.com",
+      "title": "Data Visualization",
+      "subtitle": "Charts & Graphs",
+      "description": "Creating interactive data visualizations and dashboard components for better data insights.",
+      "category": "Frontend",
+      "createdAt": "2024-01-26T09:45:00.000Z",
+      "updatedAt": "2024-01-26T09:45:00.000Z"
+    },
+    {
+      "id": 13,
+      "userId": "demo@example.com",
+      "title": "Microservices Architecture",
+      "subtitle": "Scalable Design",
+      "description": "Designing and implementing microservices architecture for scalable and maintainable applications.",
+      "category": "Architecture",
+      "createdAt": "2024-01-27T11:30:00.000Z",
+      "updatedAt": "2024-01-27T11:30:00.000Z"
+    },
+    {
+      "id": 14,
+      "userId": "demo@example.com",
+      "title": "Mobile Testing",
+      "subtitle": "Device Compatibility",
+      "description": "Testing mobile applications across different devices and platforms to ensure compatibility.",
+      "category": "Testing",
+      "createdAt": "2024-01-28T16:00:00.000Z",
+      "updatedAt": "2024-01-28T16:00:00.000Z"
+    },
+    {
+      "id": 15,
+      "userId": "demo@example.com",
+      "title": "Content Management",
+      "subtitle": "CMS Integration",
+      "description": "Integrating content management systems and building dynamic content delivery solutions.",
+      "category": "Backend",
+      "createdAt": "2024-01-29T13:25:00.000Z",
+      "updatedAt": "2024-01-29T13:25:00.000Z"
+    },
+    {
+      "id": 16,
+      "userId": "demo@example.com",
+      "title": "Real-time Features",
+      "subtitle": "WebSocket Implementation",
+      "description": "Implementing real-time communication features using WebSockets and event-driven architecture.",
+      "category": "Backend",
+      "createdAt": "2024-01-30T08:50:00.000Z",
+      "updatedAt": "2024-01-30T08:50:00.000Z"
+    },
+    {
+      "id": 17,
+      "userId": "demo@example.com",
+      "title": "Accessibility",
+      "subtitle": "WCAG Compliance",
+      "description": "Ensuring applications are accessible to users with disabilities through WCAG compliance and best practices.",
+      "category": "Frontend",
+      "createdAt": "2024-01-31T12:40:00.000Z",
+      "updatedAt": "2024-01-31T12:40:00.000Z"
+    },
+    {
+      "id": 18,
+      "userId": "demo@example.com",
+      "title": "Internationalization",
+      "subtitle": "Multi-language Support",
+      "description": "Implementing multi-language support and localization features for global applications.",
+      "category": "Frontend",
+      "createdAt": "2024-02-01T15:10:00.000Z",
+      "updatedAt": "2024-02-01T15:10:00.000Z"
+    },
+    {
+      "id": 19,
+      "userId": "demo@example.com",
+      "title": "Caching Strategy",
+      "subtitle": "Performance Optimization",
+      "description": "Implementing effective caching strategies to improve application performance and reduce server load.",
+      "category": "Backend",
+      "createdAt": "2024-02-02T10:20:00.000Z",
+      "updatedAt": "2024-02-02T10:20:00.000Z"
+    },
+    {
+      "id": 20,
+      "userId": "demo@example.com",
+      "title": "Error Handling",
+      "subtitle": "Robust Error Management",
+      "description": "Implementing comprehensive error handling and logging systems for better application reliability.",
+      "category": "Development",
+      "createdAt": "2024-02-03T14:35:00.000Z",
+      "updatedAt": "2024-02-03T14:35:00.000Z"
+    }
+  ],
+  "areaChartData": [
+    { "x": "Jan", "y": 100, "label": "January" },
+    { "x": "Feb", "y": 120, "label": "February" },
+    { "x": "Mar", "y": 90, "label": "March" },
+    { "x": "Apr", "y": 140, "label": "April" },
+    { "x": "May", "y": 160, "label": "May" },
+    { "x": "Jun", "y": 180, "label": "June" },
+    { "x": "Jul", "y": 200, "label": "July" },
+    { "x": "Aug", "y": 190, "label": "August" },
+    { "x": "Sep", "y": 170, "label": "September" },
+    { "x": "Oct", "y": 150, "label": "October" },
+    { "x": "Nov", "y": 130, "label": "November" },
+    { "x": "Dec", "y": 110, "label": "December" }
+  ],
+  "barChartData": [
+    { "label": "Q1", "value": 100, "color": "#3b82f6" },
+    { "label": "Q2", "value": 120, "color": "#ef4444" },
+    { "label": "Q3", "value": 90, "color": "#10b981" },
+    { "label": "Q4", "value": 140, "color": "#f59e0b" },
+    { "label": "Q5", "value": 110, "color": "#8b5cf6" },
+    { "label": "Q6", "value": 160, "color": "#06b6d4" },
+    { "label": "Q7", "value": 130, "color": "#f97316" },
+    { "label": "Q8", "value": 180, "color": "#ec4899" }
+  ],
+  "pieChartData": [
+    { "label": "Sales", "value": 120 },
+    { "label": "Marketing", "value": 98 },
+    { "label": "Support", "value": 86 },
+    { "label": "Development", "value": 140 },
+    { "label": "Operations", "value": 75 },
+    { "label": "Research", "value": 95 }
+  ]
+}
